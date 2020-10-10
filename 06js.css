@@ -1,0 +1,7 @@
+html, body {width: 100%;font-family: arial;}
+table {border-collapse: collapse;
+    	border:1px; border: ridge; margin: 0 auto;text-align: center;}
+
+td, th {text-align-last: end;}
+.esp{width: 20px}
+th {padding-bottom: 10px;}
